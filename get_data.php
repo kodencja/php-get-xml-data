@@ -19,7 +19,6 @@ class Books
         $data = array();
         foreach ($ksiazka as $book) {
             $arr =  (["ident" => $book['@attributes']['ident'], "tytul_polski" => $book['tytul'][0], "liczba_stron" => $book['liczbastron'], "data_wydania" => $book['datawydania']]);
-
             array_push($data, $arr);
         }
 
@@ -76,12 +75,8 @@ class Books
 
             if ($arg === 'write') {
                 $finalJsonResponse = $this->get_final_response($success, $errors, $data);
-                echo 'arg: ';
-                echo $arg;;
             } else if ($arg === null) {
-
                 echo  $finalJsonResponse = $this->get_final_response($success, $errors, $data);
-                echo $arg;
             }
 
 
@@ -99,7 +94,7 @@ class Books
 $helionBooks = new Books("https://dlabystrzakow.pl/xml/produkty-dlabystrzakow.xml", "data.json", "booksHelion.xml");
 
 $param = getopt("p:");
-// jesli nie ma parametru czyli rowne null
+// wybierz akcje ze względu na paramter
 if ($param === false) {
     $helionBooks->call_get_data(null);
     exit();
