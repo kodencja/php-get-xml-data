@@ -75,12 +75,10 @@ class Books
 
             if ($arg === 'write') {
                 $finalJsonResponse = $this->get_final_response($success, $errors, $data);
+                file_put_contents($this->file_path_to_json, $finalJsonResponse);
             } else if ($arg === null) {
                 echo  $finalJsonResponse = $this->get_final_response($success, $errors, $data);
             }
-
-
-            if ($url_success) file_put_contents($this->file_path_to_json, $finalJsonResponse);
             return $finalJsonResponse;
         } catch (Exception $err) {
             $success = false;
