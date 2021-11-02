@@ -1,0 +1,3417 @@
+array(326) {
+  [0]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "AKCIAZ"
+    ["tytul"]=>
+    string(37) "Aktywna ciÄÅ¼a dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2008-05-14"
+  }
+  [1]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "AKGIBY"
+    ["tytul"]=>
+    string(33) "Akordy gitarowe dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2016-09-19"
+  }
+  [2]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "AKWABY"
+    ["tytul"]=>
+    string(41) "Akwarium sÅodkowodne dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2010-08-06"
+  }
+  [3]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ALGOBY"
+    ["tytul"]=>
+    string(27) "Algorytmy dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2020-01-31"
+  }
+  [4]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ANFIBY"
+    ["tytul"]=>
+    string(39) "Anatomia i fizjologia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2009-03-18"
+  }
+  [5]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ANGBYS"
+    ["tytul"]=>
+    string(27) "Angielski dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "325"
+    ["datawydania"]=>
+    string(10) "2017-08-30"
+  }
+  [6]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ANTEB4"
+    ["tytul"]=>
+    string(48) "Analiza techniczna dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2021-03-09"
+  }
+  [7]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ANTEBY"
+    ["tytul"]=>
+    string(36) "Analiza techniczna dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2012-03-16"
+  }
+  [8]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ASEBY4"
+    ["tytul"]=>
+    string(59) "Analiza statystyczna w Excelu dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "528"
+    ["datawydania"]=>
+    string(10) "2020-03-06"
+  }
+  [9]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ASTRON"
+    ["tytul"]=>
+    string(28) "Astronomia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "312"
+    ["datawydania"]=>
+    string(10) "2010-08-06"
+  }
+  [10]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "BIBLBY"
+    ["tytul"]=>
+    string(24) "Biblia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "472"
+    ["datawydania"]=>
+    string(10) "2019-06-11"
+  }
+  [11]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "BIOBY2"
+    ["tytul"]=>
+    string(38) "Biologia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2017-08-17"
+  }
+  [12]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "BIZNBY"
+    ["tytul"]=>
+    string(39) "Tworzenie biznesplanu dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2009-03-18"
+  }
+  [13]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "BIZUBY"
+    ["tytul"]=>
+    string(53) "BiÅ¼uteria i koraliki dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2014-08-27"
+  }
+  [14]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "BUDBY2"
+    ["tytul"]=>
+    string(37) "Buddyzm dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2019-08-27"
+  }
+  [15]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "BUPEBY"
+    ["tytul"]=>
+    string(46) "Budowanie pewnoÅi siebie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "280"
+    ["datawydania"]=>
+    string(10) "2009-03-18"
+  }
+  [16]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "CBEX21"
+    ["tytul"]=>
+    string(56) "Excel 2010 PL. Äwiczenia praktyczne dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2011-01-31"
+  }
+  [17]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "CHAPSA"
+    ["tytul"]=>
+    string(31) "Charakter psa dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "288"
+    ["datawydania"]=>
+    string(10) "2009-03-18"
+  }
+  [18]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "CHEM2V"
+    ["tytul"]=>
+    string(36) "Chemia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    string(10) "2015-09-17"
+  }
+  [19]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "CHINBY"
+    ["tytul"]=>
+    string(28) "ChiÅski dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2013-10-21"
+  }
+  [20]=>
+  array(4) {
+    ["ident"]=>
+    string(5) "CIAZA"
+    ["tytul"]=>
+    string(29) "CiÄÅ¼a dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "456"
+    ["datawydania"]=>
+    string(10) "2007-10-22"
+  }
+  [21]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "CIAZAB"
+    ["tytul"]=>
+    string(42) "CiÄÅ¼a dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2014-02-14"
+  }
+  [22]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "CIAZB4"
+    ["tytul"]=>
+    string(41) "CiÄÅ¼a dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [23]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "COAMB2"
+    ["tytul"]=>
+    string(60) "Coaching i mentoring biznesowy dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [24]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "CPPBY7"
+    ["tytul"]=>
+    string(34) "C++ dla bystrzakÃ³w. Wydanie VII"
+    ["liczbastron"]=>
+    string(3) "464"
+    ["datawydania"]=>
+    string(10) "2020-01-31"
+  }
+  [25]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "CWGIBY"
+    ["tytul"]=>
+    string(43) "Äwiczenia na gitarÄ dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "240"
+    ["datawydania"]=>
+    string(10) "2011-07-04"
+  }
+  [26]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "DETOBY"
+    ["tytul"]=>
+    string(24) "Detoks dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2017-09-20"
+  }
+  [27]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "DIKEBY"
+    ["tytul"]=>
+    string(28) "Dieta keto dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2021-07-06"
+  }
+  [28]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "DOSPAM"
+    ["tytul"]=>
+    string(41) "Doskonalenie pamiÄci dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2008-07-28"
+  }
+  [29]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "DROBYS"
+    ["tytul"]=>
+    string(23) "Drony dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "256"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  }
+  [30]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "E13PVB"
+    ["tytul"]=>
+    string(52) "Excel 2013 PL. Programowanie w VBA dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2014-02-10"
+  }
+  [31]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "EFZCB2"
+    ["tytul"]=>
+    string(61) "Efektywne zarzÄdzanie czasem dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    array(0) {
+    }
+  }
+  [32]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "EKOBY2"
+    ["tytul"]=>
+    string(38) "Ekonomia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [33]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "EKOBY3"
+    ["tytul"]=>
+    string(39) "Ekonomia dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "448"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [34]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "EKONOM"
+    ["tytul"]=>
+    string(26) "Ekonomia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "448"
+    ["datawydania"]=>
+    string(10) "2008-07-18"
+  }
+  [35]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ELEB3V"
+    ["tytul"]=>
+    string(42) "Elektronika dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  }
+  [36]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ELEBYS"
+    ["tytul"]=>
+    string(41) "Elektronika dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2011-11-14"
+  }
+  [37]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "EPVBB5"
+    ["tytul"]=>
+    string(55) "Excel. Programowanie w VBA dla bystrzakÃ³w. Wydanie V"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2020-06-15"
+  }
+  [38]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "EX21BY"
+    ["tytul"]=>
+    string(31) "Excel 2010 PL dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "350"
+    ["datawydania"]=>
+    string(10) "2011-01-24"
+  }
+  [39]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "EXCE27"
+    ["tytul"]=>
+    string(31) "Excel 2007 PL dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "432"
+    ["datawydania"]=>
+    string(10) "2008-01-09"
+  }
+  [40]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "FENSHU"
+    ["tytul"]=>
+    string(27) "Feng shui dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "464"
+    ["datawydania"]=>
+    string(10) "2008-05-16"
+  }
+  [41]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "FILOBV"
+    ["tytul"]=>
+    string(27) "Filozofia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2015-09-17"
+  }
+  [42]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "FOCBYS"
+    ["tytul"]=>
+    string(48) "Fotografia cyfrowa dla bystrzakÃ³w. Wydanie V "
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2009-04-20"
+  }
+  [43]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "FOREB2"
+    ["tytul"]=>
+    string(35) "FOREX dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2012-09-14"
+  }
+  [44]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "FOREBV"
+    ["tytul"]=>
+    string(23) "FOREX dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2009-11-26"
+  }
+  [45]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "FORMUL"
+    ["tytul"]=>
+    string(30) "FormuÅa 1 dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+ednio zaawansowany"7-10-15"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2016-11-18"
+  } string(6) "FRA2VV"
+  [49]=>tul"]=>
+  array(4) {0) "Francuski dla bystrzakÃ³w. Wydanie II "
+    ["ident"]=>on"]=>
+    string(6) "GENBY2"
+    ["tytul"]=>ia"]=>
+    string(38) "Genetyka dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2017-11-13"
+  } string(6) "FRANBV"
+  [50]=>tul"]=>
+  array(4) {7) "Francuski dla bystrzakÃ³w"
+    ["ident"]=>on"]=>
+    string(6) "GIBASB"
+    ["tytul"]=>ia"]=>
+    string(31) "Gitara basowa dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2014-02-10"
+  } string(6) "FRSZBY"
+  [51]=>tul"]=>
+  array(4) {9) "Francuski dla bystrzakÃ³w. Poziom Å
+    ["ident"]=>
+    string(6) "GIKLBY"
+    ["tytul"]=>
+    string(34) "Gitara klasyczna dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2011-07-04"
+  }
+  [52]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "GITABV"
+    ["tytul"]=>
+    string(24) "Gitara dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "448"
+    ["datawydania"]=>
+    string(10) "2008-01-10"
+  }
+  [53]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "GITBY3"
+    ["tytul"]=>
+    string(37) "Gitara dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [54]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "GITBY4"
+    ["tytul"]=>
+    string(36) "Gitara dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2019-09-03"
+  }
+  [55]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "GITROC"
+    ["tytul"]=>
+    string(32) "Gitara rockowa dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2010-08-06"
+  }
+  [56]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "GOTGE2"
+    ["tytul"]=>
+    string(35) "Gotowanie dla geekÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "462"
+    ["datawydania"]=>
+    string(10) "2019-10-01"
+  }
+  [57]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "GPWBYS"
+    ["tytul"]=>
+    string(1) "G"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2015-01-14"
+  }
+  [58]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "GRANBY"
+    ["tytul"]=>
+    string(37) "Gramatyka angielska dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "312"
+    ["datawydania"]=>
+ednio zaawansowany"0-08-26"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2017-08-21"
+  } string(6) "GRILBY"
+  [62]=>tul"]=>
+  array(4) {1) "Grillowanie dla bystrzakÃ³w. Wydanie II"
+    ["ident"]=>on"]=>
+    string(6) "HISZBV"
+    ["tytul"]=>ia"]=>
+    string(31) "HiszpaÅski dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2010-12-09"
+  } string(6) "HIB2VV"
+  [63]=>tul"]=>
+  array(4) {3) "HiszpaÅski dla bystrzakÃ³w. Wydanie II"
+    ["ident"]=>on"]=>
+    string(6) "HISZP4"
+    ["tytul"]=>ia"]=>
+    string(39) "Hiszpania dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "752"
+    ["datawydania"]=>
+    string(10) "2008-04-02"
+  } string(6) "HISSBY"
+  [64]=>tul"]=>
+  array(4) {3) "HiszpaÅski dla bystrzakÃ³w. Poziom Å
+    ["ident"]=>
+    string(6) "HISZTV"
+    ["tytul"]=>
+    string(33) "Historia sztuki dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "488"
+    ["datawydania"]=>
+    string(10) "2008-09-24"
+  }
+  [65]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "HOASTR"
+    ["tytul"]=>
+    string(52) "Horoskop astrologiczny dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "480"
+    ["datawydania"]=>
+    string(10) "2007-10-22"
+  }
+  [66]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "INEMBY"
+    ["tytul"]=>
+    string(42) "Inteligencja emocjonalna dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "304"
+    ["datawydania"]=>
+    string(10) "2011-07-04"
+  }
+  [67]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "INWAB2"
+    ["tytul"]=>
+    string(49) "Inwestycje walutowe dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2015-12-18"
+  }
+  [68]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "INWAB3"
+    ["tytul"]=>
+    string(50) "Inwestycje walutowe dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2020-09-15"
+  }
+  [69]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "IRLAN4"
+    ["tytul"]=>
+    string(38) "Irlandia dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "624"
+    ["datawydania"]=>
+    string(10) "2008-04-02"
+  }
+  [70]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "JAKOBY"
+    ["tytul"]=>
+    string(29) "Jazda konna dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [71]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "JAVBY7"
+    ["tytul"]=>
+    string(35) "Java dla bystrzakÃ³w. Wydanie VII"
+    ["liczbastron"]=>
+    string(3) "472"
+    ["datawydania"]=>
+    string(10) "2020-02-03"
+  }
+  [72]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "JESWAR"
+    ["tytul"]=>
+    string(1) "J"
+    ["liczbastron"]=>
+    string(3) "192"
+    ["datawydania"]=>
+    string(10) "2019-07-16"
+  }
+  [73]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "JOGABY"
+    ["tytul"]=>
+    string(22) "Joga dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [74]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "JSDZBY"
+    ["tytul"]=>
+    string(39) "JavaScript dla dzieci dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "302"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [75]=>
+  array(4) {
+    ["ident"]=>
+    string(5) "KARTY"
+    ["tytul"]=>
+    string(30) "Gry karciane dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "472"
+    ["datawydania"]=>
+    string(10) "2007-10-22"
+  }
+  [76]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "KOMPCB"
+    ["tytul"]=>
+    string(30) "Komputery PC dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "432"
+    ["datawydania"]=>
+    string(10) "2009-03-19"
+  }
+  [77]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "KOSEBY"
+    ["tytul"]=>
+    string(56) "Komputer dla seniorÃ³w. Informatyka dla bystrzakÃ³w "
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2009-03-20"
+  }
+  [78]=>
+  array(4) {
+    ["ident"]=>
+    string(4) "KOTY"
+    ["tytul"]=>
+    string(34) "Koty dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "432"
+    ["datawydania"]=>
+    string(10) "2008-05-16"
+  }
+  [79]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "KREMYV"
+    ["tytul"]=>
+    string(39) "Kreatywne myÅenie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    string(10) "2015-01-14"
+  }
+  [80]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "KUCHBE"
+    ["tytul"]=>
+    string(42) "Kuchnia bez cholesterolu dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "456"
+    ["datawydania"]=>
+    string(10) "2008-01-10"
+  }
+  [81]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "KUPIBY"
+    ["tytul"]=>
+    string(42) "Kurs pisania powieÅi dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2016-09-19"
+  }
+  [82]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "LEANBV"
+    ["tytul"]=>
+    string(34) "Lean dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2015-01-19"
+  }
+  [83]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "LOGIBY"
+    ["tytul"]=>
+    string(24) "Logika dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2017-11-13"
+  }
+  [84]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "LONDY4"
+    ["tytul"]=>
+    string(36) "Londyn dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "464"
+    ["datawydania"]=>
+    string(10) "2008-04-04"
+  }
+  [85]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MARABY"
+    ["tytul"]=>
+    string(25) "Maraton dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "256"
+    ["datawydania"]=>
+    string(10) "2012-05-25"
+  }
+  [86]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MARBY5"
+    ["tytul"]=>
+    string(38) "Marketing dla bystrzakÃ³w. Wydanie V"
+    ["liczbastron"]=>
+    string(3) "448"
+    ["datawydania"]=>
+    string(10) "2020-02-10"
+  }
+  [87]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MEDYB4"
+    ["tytul"]=>
+    string(39) "Medytacja dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [88]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MENTZZ"
+    ["tytul"]=>
+    string(1) "M"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2019-04-23"
+  }
+  [89]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MIGREN"
+    ["tytul"]=>
+    string(25) "Migrena dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2007-10-16"
+  }
+  [90]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MIKRBY"
+    ["tytul"]=>
+    string(31) "Mikroekonomia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2017-11-13"
+  }
+  [91]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MIMOMB"
+    ["tytul"]=>
+    string(51) "Minecraft. Modyfikacje dla mÅodych bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "128"
+    ["datawydania"]=>
+    string(10) "2017-09-20"
+  }
+  [92]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MINDB2"
+    ["tytul"]=>
+    string(41) "Mindfulness dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2019-03-12"
+  }
+  [93]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MINEBY"
+    ["tytul"]=>
+    string(27) "Minecraft dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2016-01-22"
+  }
+  [94]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MKBY2V"
+    ["tytul"]=>
+    string(46) "Muzyka klasyczna dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  }
+  [95]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MOBIBY"
+    ["tytul"]=>
+    string(34) "Modele biznesowe dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2018-03-09"
+  }
+  [96]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MOCIA3"
+    ["tytul"]=>
+    string(44) "Mowa ciaÅa dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2016-09-19"
+  }
+  [97]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MOCIAB"
+    ["tytul"]=>
+    string(31) "Mowa ciaÅa dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2008-07-21"
+  }
+  [98]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "MYSLIN"
+    ["tytul"]=>
+    string(73) "MyÅ jak inÅ¼ynier. Projekty techniczne dla mÅodych bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "128"
+    ["datawydania"]=>
+    string(10) "2018-01-23"
+  }
+  [99]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "NADCBY"
+    ["tytul"]=>
+    string(33) "NadciÅienie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+ednio zaawansowany"8-09-24"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  } string(6) "NAKOBY"
+  [103]=>ul"]=>
+  array(4) {0) "Naprawa i konserwacja rowerÃ³w dla bystrzakÃ³w"
+    ["ident"]=>on"]=>
+    string(6) "NIE2VV"
+    ["tytul"]=>ia"]=>
+    string(40) "Niemiecki dla bystrzakÃ³w. Wydanie II "
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2015-07-13"
+  } string(6) "NEGOC2"
+  [104]=>ul"]=>
+  array(4) {0) "Negocjacje dla bystrzakÃ³w. Wydanie II"
+    ["ident"]=>on"]=>
+    string(6) "NIEMBV"
+    ["tytul"]=>ia"]=>
+    string(27) "Niemiecki dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2010-12-09"
+  } string(6) "NIBYSZ"
+  [105]=>ul"]=>
+  array(4) {9) "Niemiecki dla bystrzakÃ³w. Poziom Å
+    ["ident"]=>
+    string(6) "NLPBY2"
+    ["tytul"]=>
+    string(33) "NLP dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [106]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "NLPBY3"
+    ["tytul"]=>
+    string(34) "NLP dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2020-01-28"
+  }
+  [107]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "NLPBYS"
+    ["tytul"]=>
+    string(21) "NLP dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    string(10) "2008-07-14"
+  }
+  [108]=>
+  array(4) {
+    ["ident"]=>
+    string(5) "OGROD"
+    ["tytul"]=>
+    string(29) "Ogrodnictwo dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "456"
+    ["datawydania"]=>
+    string(10) "2008-01-09"
+  }
+  [109]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "OPMEBY"
+    ["tytul"]=>
+    string(36) "Sprawny metabolizm dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2017-09-20"
+  }
+  [110]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "OPTYDV"
+    ["tytul"]=>
+    string(61) "Optymalna dieta dla biegaczy. Jedz zdrowo i biegnij po sukces"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2015-05-15"
+  }
+  [111]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PARYZ4"
+    ["tytul"]=>
+    string(38) "ParyÅ¼ dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "488"
+    ["datawydania"]=>
+    string(10) "2008-04-02"
+  }
+  [112]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PIANBY"
+    ["tytul"]=>
+    string(52) "Instrumenty klawiszowe dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2011-07-04"
+  }
+  [113]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PILATE"
+    ["tytul"]=>
+    string(25) "Pilates dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2007-10-15"
+  }
+  [114]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PODMBY"
+    ["tytul"]=>
+    string(51) "Podstawy programowania dla mÅodych bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "128"
+    ["datawydania"]=>
+    string(10) "2019-03-05"
+  }
+  [115]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "POKERB"
+    ["tytul"]=>
+    string(23) "Poker dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "288"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [116]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "POWBYS"
+    ["tytul"]=>
+    string(61) "Poczucie wÅasnej wartoÅi dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2016-11-18"
+  }
+  [117]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PRINBY"
+    ["tytul"]=>
+    string(58) "Fotowoltaika. Projektowanie i instalacja dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2021-10-05"
+  }
+  [118]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PRO13B"
+    ["tytul"]=>
+    string(33) "MS Project 2013 dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2015-01-19"
+  }
+  [119]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PROEBY"
+    ["tytul"]=>
+    string(40) "Projekty elektroniczne dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2015-06-08"
+  }
+  [120]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PRPYB2"
+    ["tytul"]=>
+    string(54) "Programowanie w Pythonie dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2020-02-03"
+  }
+  [121]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PRZYBY"
+    ["tytul"]=>
+    string(32) "PrzywÃ³dztwo dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2008-07-07"
+  }
+  [122]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PSSPBY"
+    ["tytul"]=>
+    string(36) "Psychologia sportu dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "304"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [123]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PSYB2V"
+    ["tytul"]=>
+    string(41) "Psychologia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2018-12-17"
+  }
+  [124]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "PSYCHO"
+    ["tytul"]=>
+    string(29) "Psychologia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2007-10-12"
+  }
+  [125]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "REIKIO"
+    ["tytul"]=>
+    string(1) "R"
+    ["liczbastron"]=>
+    string(3) "272"
+    ["datawydania"]=>
+    string(10) "2019-06-04"
+  }
+  [126]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "REMIBY"
+    ["tytul"]=>
+    string(41) "Receptury w Minecrafcie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "160"
+    ["datawydania"]=>
+    string(10) "2016-03-21"
+  }
+  [127]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ROBREC"
+    ["tytul"]=>
+    string(38) "RobÃ³tki rÄczne dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "432"
+    ["datawydania"]=>
+    string(10) "2007-10-16"
+  }
+  [128]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ROCZEK"
+    ["tytul"]=>
+    string(38) "Pierwszy rok dziecka dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "440"
+    ["datawydania"]=>
+    string(10) "2007-10-16"
+  }
+  [129]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "RODZBY"
+    ["tytul"]=>
+    string(31) "Rodzicielstwo dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2009-03-25"
+  }
+  [130]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "RODZIC"
+    ["tytul"]=>
+    string(1) "R"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2019-06-18"
+  }
+  [131]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ROFRBY"
+    ["tytul"]=>
+    string(40) "RozmÃ³wki francuskie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "168"
+    ["datawydania"]=>
+    string(10) "2018-06-11"
+  }
+  [132]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ROKWBY"
+    ["tytul"]=>
+    string(53) "Rozmowa kwalifikacyjna dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2011-07-04"
+  }
+  [133]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "RONIBY"
+    ["tytul"]=>
+    string(40) "RozmÃ³wki niemieckie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "168"
+    ["datawydania"]=>
+    string(10) "2018-06-11"
+  }
+  [134]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ROROBY"
+    ["tytul"]=>
+    string(39) "RozmÃ³wki rosyjskie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "160"
+    ["datawydania"]=>
+    string(10) "2018-06-11"
+  }
+  [135]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ROS2VV"
+    ["tytul"]=>
+    string(39) "Rosyjski dla bystrzakÃ³w. Wydanie II "
+    ["liczbastron"]=>
+    string(3) "312"
+    ["datawydania"]=>
+    string(10) "2015-07-13"
+  }
+  [136]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ROSYBY"
+    ["tytul"]=>
+    string(27) "Rosyjski dla bystrzakÃ³w "
+    ["liczbastron"]=>
+    string(3) "312"
+    ["datawydania"]=>
+    string(10) "2008-10-14"
+  }
+  [137]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ROWLBY"
+    ["tytul"]=>
+    string(40) "RozmÃ³wki wÅoskie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "168"
+    ["datawydania"]=>
+    string(10) "2018-06-11"
+  }
+  [138]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "RTGIBY"
+    ["tytul"]=>
+    string(48) "Rytm i technika gry na gitarze dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "216"
+    ["datawydania"]=>
+    string(10) "2017-01-16"
+  }
+  [139]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "RYSOB2"
+    ["tytul"]=>
+    string(39) "Rysowanie dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    array(0) {
+    }
+  }
+  [140]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "RYSOBY"
+    ["tytul"]=>
+    string(27) "Rysowanie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2008-09-24"
+  }
+  [141]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "RZUPAL"
+    ["tytul"]=>
+    string(33) "RzuÄ palenie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2007-10-12"
+  }
+  [142]=>
+  array(4) {
+    ["ident"]=>
+    string(4) "RZYM"
+    ["tytul"]=>
+    string(22) "Rzym dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2008-04-02"
+  }
+  [143]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "SEKPCC"
+    ["tytul"]=>
+    string(122) "Sekrety cyfrowej ciemni Scotta Kelby'ego. Edycja i obrÃ³bka zdjÄÄ w programie Adobe Photoshop Lightroom Classic CC"
+    ["liczbastron"]=>
+    string(3) "464"
+    ["datawydania"]=>
+    string(10) "2019-06-25"
+  }
+  [144]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "SEKSBY"
+    ["tytul"]=>
+    string(22) "Seks dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [145]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "SIEB11"
+    ["tytul"]=>
+    string(47) "Sieci komputerowe dla bystrzakÃ³w. Wydanie XI"
+    ["liczbastron"]=>
+    string(3) "464"
+    ["datawydania"]=>
+    string(10) "2019-10-29"
+  }
+  [146]=>
+  array(4) {
+    ["ident"]=>
+    string(5) "SLEEP"
+    ["tytul"]=>
+    string(34) "Problemy ze snem dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2007-10-16"
+  }
+  [147]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "SOCJOB"
+    ["tytul"]=>
+    string(28) "Socjologia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2017-11-13"
+  }
+  [148]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "STABY2"
+    ["tytul"]=>
+    string(40) "Statystyka dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2016-09-19"
+  }
+  [149]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "SZACHB"
+    ["tytul"]=>
+    string(36) "Szachy dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2008-07-21"
+  }
+  [150]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "SZINBY"
+    ["tytul"]=>
+    string(39) "Sztuczna inteligencja dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2021-03-11"
+  }
+  [151]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "SZKOBY"
+    ["tytul"]=>
+    string(36) "Sztuka komunikacji dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "144"
+    ["datawydania"]=>
+    string(10) "2017-08-30"
+  }
+  [152]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "TAOBYS"
+    ["tytul"]=>
+    string(24) "Taoizm dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2019-03-12"
+  }
+  [153]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "TEMUB4"
+    ["tytul"]=>
+    string(43) "Teoria muzyki dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "304"
+    ["datawydania"]=>
+    string(10) "2021-06-08"
+  }
+  [154]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "TEMUBY"
+    ["tytul"]=>
+    string(43) "Teoria muzyki dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "280"
+    ["datawydania"]=>
+    string(10) "2014-08-14"
+  }
+  [155]=>
+  array(4) {
+    ["ident"]=>
+    string(5) "TENIS"
+    ["tytul"]=>
+    string(23) "Tenis dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "440"
+    ["datawydania"]=>
+    string(10) "2008-05-16"
+  }
+  [156]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "TREPSO"
+    ["tytul"]=>
+    string(33) "Trening psÃ³w dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2008-09-24"
+  }
+  [157]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "TRESBY"
+    ["tytul"]=>
+    string(47) "Trening siÅowy dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  }
+  [158]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "TREUBV"
+    ["tytul"]=>
+    string(35) "Trening umysÅu dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [159]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WINOBY"
+    ["tytul"]=>
+    string(22) "Wino dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "440"
+    ["datawydania"]=>
+    string(10) "2008-09-24"
+  }
+  [160]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WIVIBY"
+    ["tytul"]=>
+    string(34) "Windows Vista PL dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "520"
+    ["datawydania"]=>
+    string(10) "2008-09-17"
+  }
+  [161]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WLJEZV"
+    ["tytul"]=>
+    string(1) "W"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2014-01-13"
+  }
+  [162]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WLOB2V"
+    ["tytul"]=>
+    string(39) "WÅoski dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2015-07-13"
+  }
+  [163]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WLOCH4"
+    ["tytul"]=>
+    string(39) "WÅochy dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "744"
+    ["datawydania"]=>
+    string(10) "2008-04-02"
+  }
+  [164]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WLOSBV"
+    ["tytul"]=>
+    string(27) "WÅoski dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2010-12-09"
+  }
+  [165]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WLOSBY"
+    ["tytul"]=>
+    string(27) "WÅoski dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2008-10-14"
+  }
+  [166]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WO27BY"
+    ["tytul"]=>
+    string(30) "Word 2007 PL dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2009-12-15"
+  }
+  [167]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "WYSZB3"
+    ["tytul"]=>
+    string(54) "Wychowanie szczeniÄt dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [168]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ZAPRB5"
+    ["tytul"]=>
+    string(54) "ZarzÄdzanie projektami dla bystrzakÃ³w. Wydanie V"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2019-05-20"
+  }
+  [169]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ZAPRBY"
+    ["tytul"]=>
+    string(43) "ZarzÄdzanie projektami dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [170]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ZAPROB"
+    ["tytul"]=>
+    string(42) "ZarzÄdzanie produktem dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2020-01-28"
+  }
+  [171]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ZAPSZE"
+    ["tytul"]=>
+    string(117) "Zapytaj szefa. Jak siÄ dogadaÄ w trudnych sytuacjach z przeÅoÅ¼onym, podwÅadnymi i kolegami z dziaÅu"
+    ["liczbastron"]=>
+    string(3) "264"
+    ["datawydania"]=>
+    string(10) "2019-03-26"
+  }
+  [172]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ZAZBY3"
+    ["tytul"]=>
+    string(45) "ZarzÄdzanie dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "328"
+    ["datawydania"]=>
+    string(10) "2016-09-19"
+  }
+  [173]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ZAZBYS"
+    ["tytul"]=>
+    string(44) "ZarzÄdzanie dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2008-07-21"
+  }
+  [174]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ZEGLBY"
+    ["tytul"]=>
+    string(43) "Å»eglarstwo dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2008-07-21"
+  }
+  [175]=>
+  array(4) {
+    ["ident"]=>
+    string(6) "ZOGWYT"
+    ["tytul"]=>
+    string(92) "ZostaÅ gwiazdÄ YouTube'a. TwÃ³rz najlepsze filmy wideo! Dla mÅodych bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "128"
+    ["datawydania"]=>
+    string(10) "2018-01-12"
+  }
+  [176]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "AKGIBY_EBOOK"
+    ["tytul"]=>
+    string(33) "Akordy gitarowe dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2016-09-19"
+  }
+  [177]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "AKWABY_EBOOK"
+    ["tytul"]=>
+    string(41) "Akwarium sÅodkowodne dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [178]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ALGOBY_EBOOK"
+    ["tytul"]=>
+    string(27) "Algorytmy dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2020-01-31"
+  }
+  [179]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ANFIBY_EBOOK"
+    ["tytul"]=>
+    string(39) "Anatomia i fizjologia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [180]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ANGBYS_EBOOK"
+    ["tytul"]=>
+    string(27) "Angielski dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "325"
+    ["datawydania"]=>
+    string(10) "2017-08-30"
+  }
+  [181]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ANTEB4_EBOOK"
+    ["tytul"]=>
+    string(48) "Analiza techniczna dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2021-03-09"
+  }
+  [182]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ANTEBY_EBOOK"
+    ["tytul"]=>
+    string(36) "Analiza techniczna dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2012-08-30"
+  }
+  [183]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ASEBY4_EBOOK"
+    ["tytul"]=>
+    string(59) "Analiza statystyczna w Excelu dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "528"
+    ["datawydania"]=>
+    string(10) "2020-02-25"
+  }
+  [184]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ASTRON_EBOOK"
+    ["tytul"]=>
+    string(28) "Astronomia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "312"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [185]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "BIBLBY_EBOOK"
+    ["tytul"]=>
+    string(24) "Biblia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "472"
+    ["datawydania"]=>
+    string(10) "2019-06-11"
+  }
+  [186]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "BIOBY2_EBOOK"
+    ["tytul"]=>
+    string(38) "Biologia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2017-08-17"
+  }
+  [187]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "BIZNBY_EBOOK"
+    ["tytul"]=>
+    string(39) "Tworzenie biznesplanu dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [188]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "BIZUBY_EBOOK"
+    ["tytul"]=>
+    string(53) "BiÅ¼uteria i koraliki dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2014-09-02"
+  }
+  [189]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "BUDBY2_EBOOK"
+    ["tytul"]=>
+    string(37) "Buddyzm dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2019-08-27"
+  }
+  [190]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "BUPEBY_EBOOK"
+    ["tytul"]=>
+    string(46) "Budowanie pewnoÅi siebie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "280"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [191]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "CBEX21_EBOOK"
+    ["tytul"]=>
+    string(56) "Excel 2010 PL. Äwiczenia praktyczne dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [192]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "CHAPSA_EBOOK"
+    ["tytul"]=>
+    string(31) "Charakter psa dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "288"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [193]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "CHEM2V_EBOOK"
+    ["tytul"]=>
+    string(36) "Chemia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    string(10) "2015-09-17"
+  }
+  [194]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "CHINBY_EBOOK"
+    ["tytul"]=>
+    string(28) "ChiÅski dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2013-10-20"
+  }
+  [195]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "CIAZAB_EBOOK"
+    ["tytul"]=>
+    string(42) "CiÄÅ¼a dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2014-02-10"
+  }
+  [196]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "CIAZB4_3"
+    ["tytul"]=>
+    string(41) "CiÄÅ¼a dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [197]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "CIAZB4_EBOOK"
+    ["tytul"]=>
+    string(41) "CiÄÅ¼a dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [198]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "COAMB2_EBOOK"
+    ["tytul"]=>
+    string(60) "Coaching i mentoring biznesowy dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [199]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "CPPBY7_EBOOK"
+    ["tytul"]=>
+    string(34) "C++ dla bystrzakÃ³w. Wydanie VII"
+    ["liczbastron"]=>
+    string(3) "464"
+    ["datawydania"]=>
+    string(10) "2020-01-31"
+  }
+  [200]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "CWGIBY_EBOOK"
+    ["tytul"]=>
+    string(43) "Äwiczenia na gitarÄ dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "240"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [201]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "DETOBY_EBOOK"
+    ["tytul"]=>
+    string(24) "Detoks dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2017-09-20"
+  }
+  [202]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "DIKEBY_EBOOK"
+    ["tytul"]=>
+    string(28) "Dieta keto dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2021-07-06"
+  }
+  [203]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "DROBYS_EBOOK"
+    ["tytul"]=>
+    string(23) "Drony dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "256"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  }
+  [204]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "E13PVB_EBOOK"
+    ["tytul"]=>
+    string(52) "Excel 2013 PL. Programowanie w VBA dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2014-02-10"
+  }
+  [205]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "EKOBY2_EBOOK"
+    ["tytul"]=>
+    string(38) "Ekonomia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [206]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "EKOBY3_3"
+    ["tytul"]=>
+    string(39) "Ekonomia dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "448"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [207]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "EKOBY3_EBOOK"
+    ["tytul"]=>
+    string(39) "Ekonomia dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "448"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [208]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ELEB3V_EBOOK"
+    ["tytul"]=>
+    string(42) "Elektronika dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  }
+  [209]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ELEBYS_EBOOK"
+    ["tytul"]=>
+    string(41) "Elektronika dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2012-10-16"
+  }
+  [210]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "EPVBB5_EBOOK"
+    ["tytul"]=>
+    string(55) "Excel. Programowanie w VBA dla bystrzakÃ³w. Wydanie V"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2020-06-15"
+  }
+  [211]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "EX21BY_EBOOK"
+    ["tytul"]=>
+    string(31) "Excel 2010 PL dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "350"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [212]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "FILOBV_EBOOK"
+    ["tytul"]=>
+    string(27) "Filozofia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2015-09-17"
+  }
+  [213]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "FOCBYS_EBOOK"
+    ["tytul"]=>
+    string(48) "Fotografia cyfrowa dla bystrzakÃ³w. Wydanie V "
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+ednio zaawansowany"3-04-24"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2016-11-18"
+  } string(12) "FOREB2_EBOOK"
+  [217]=>ul"]=>
+  array(4) {5) "FOREX dla bystrzakÃ³w. Wydanie II"
+    ["ident"]=>on"]=>
+    string(12) "GENBY2_EBOOK"
+    ["tytul"]=>ia"]=>
+    string(38) "Genetyka dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2017-11-10"
+  } string(12) "FRA2VV_EBOOK"
+  [218]=>ul"]=>
+  array(4) {0) "Francuski dla bystrzakÃ³w. Wydanie II "
+    ["ident"]=>on"]=>
+    string(12) "GIBASB_EBOOK"
+    ["tytul"]=>ia"]=>
+    string(31) "Gitara basowa dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2014-02-10"
+  } string(12) "FRSZBY_EBOOK"
+  [219]=>ul"]=>
+  array(4) {9) "Francuski dla bystrzakÃ³w. Poziom Å
+    ["ident"]=>
+    string(12) "GIKLBY_EBOOK"
+    ["tytul"]=>
+    string(34) "Gitara klasyczna dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [220]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "GITBY3_EBOOK"
+    ["tytul"]=>
+    string(37) "Gitara dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [221]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "GITBY4_EBOOK"
+    ["tytul"]=>
+    string(36) "Gitara dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2019-09-03"
+  }
+  [222]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "GITROC_EBOOK"
+    ["tytul"]=>
+    string(32) "Gitara rockowa dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [223]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "GOTGE2_EBOOK"
+    ["tytul"]=>
+    string(35) "Gotowanie dla geekÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "462"
+    ["datawydania"]=>
+    string(10) "2019-10-01"
+  }
+  [224]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "GPWBYS_EBOOK"
+    ["tytul"]=>
+    string(1) "G"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2015-01-18"
+  }
+  [225]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "GRANBY_EBOOK"
+    ["tytul"]=>
+    string(37) "Gramatyka angielska dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "312"
+    ["datawydania"]=>
+ednio zaawansowany"3-04-12"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2017-08-21"
+  } string(12) "GRILBY_EBOOK"
+  [229]=>ul"]=>
+  array(4) {1) "Grillowanie dla bystrzakÃ³w. Wydanie II"
+    ["ident"]=>on"]=>
+    string(12) "HISZTU_EBOOK"
+    ["tytul"]=>ia"]=>
+    string(33) "Historia sztuki dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "512"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  } string(12) "HIB2VV_EBOOK"
+  [230]=>ul"]=>
+  array(4) {3) "HiszpaÅski dla bystrzakÃ³w. Wydanie II"
+    ["ident"]=>on"]=>
+    string(12) "INEMBY_EBOOK"
+    ["tytul"]=>ia"]=>
+    string(42) "Inteligencja emocjonalna dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "304"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  } string(12) "HISSBY_EBOOK"
+  [231]=>ul"]=>
+  array(4) {3) "HiszpaÅski dla bystrzakÃ³w. Poziom Å
+    ["ident"]=>
+    string(12) "INWAB2_EBOOK"
+    ["tytul"]=>
+    string(49) "Inwestycje walutowe dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2016-01-05"
+  }
+  [232]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "INWAB3_EBOOK"
+    ["tytul"]=>
+    string(50) "Inwestycje walutowe dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    array(0) {
+    }
+  }
+  [233]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "JAKOBY_EBOOK"
+    ["tytul"]=>
+    string(29) "Jazda konna dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [234]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "JAVBY7_EBOOK"
+    ["tytul"]=>
+    string(35) "Java dla bystrzakÃ³w. Wydanie VII"
+    ["liczbastron"]=>
+    string(3) "472"
+    ["datawydania"]=>
+    string(10) "2020-01-31"
+  }
+  [235]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "JESWAR_3"
+    ["tytul"]=>
+    string(1) "J"
+    ["liczbastron"]=>
+    string(3) "192"
+    ["datawydania"]=>
+    string(10) "2019-07-16"
+  }
+  [236]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "JESWAR_EBOOK"
+    ["tytul"]=>
+    string(1) "J"
+    ["liczbastron"]=>
+    string(3) "192"
+    ["datawydania"]=>
+    string(10) "2019-07-16"
+  }
+  [237]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "JOGABY_EBOOK"
+    ["tytul"]=>
+    string(22) "Joga dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [238]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "JSDZBY_EBOOK"
+    ["tytul"]=>
+    string(39) "JavaScript dla dzieci dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "302"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [239]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "KOMPCB_EBOOK"
+    ["tytul"]=>
+    string(30) "Komputery PC dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "432"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [240]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "KOSEBY_EBOOK"
+    ["tytul"]=>
+    string(56) "Komputer dla seniorÃ³w. Informatyka dla bystrzakÃ³w "
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [241]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "KREMYV_3"
+    ["tytul"]=>
+    string(39) "Kreatywne myÅenie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    string(10) "2019-09-24"
+  }
+  [242]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "KREMYV_EBOOK"
+    ["tytul"]=>
+    string(39) "Kreatywne myÅenie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    string(10) "2015-01-14"
+  }
+  [243]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "KUPIBY_EBOOK"
+    ["tytul"]=>
+    string(42) "Kurs pisania powieÅi dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2016-09-18"
+  }
+  [244]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "LEANBV_3"
+    ["tytul"]=>
+    string(34) "Lean dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2019-09-10"
+  }
+  [245]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "LEANBV_EBOOK"
+    ["tytul"]=>
+    string(34) "Lean dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2015-01-18"
+  }
+  [246]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "LOGIBY_EBOOK"
+    ["tytul"]=>
+    string(24) "Logika dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2017-11-10"
+  }
+  [247]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MARABY_EBOOK"
+    ["tytul"]=>
+    string(25) "Maraton dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "256"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [248]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MARBY5_EBOOK"
+    ["tytul"]=>
+    string(38) "Marketing dla bystrzakÃ³w. Wydanie V"
+    ["liczbastron"]=>
+    string(3) "448"
+    ["datawydania"]=>
+    string(10) "2020-02-04"
+  }
+  [249]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MEDYB4_EBOOK"
+    ["tytul"]=>
+    string(39) "Medytacja dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2020-01-21"
+  }
+  [250]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MENTZZ_EBOOK"
+    ["tytul"]=>
+    string(1) "M"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2019-04-23"
+  }
+  [251]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "MENTZZ_3"
+    ["tytul"]=>
+    string(1) "M"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2019-11-19"
+  }
+  [252]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MIKRBY_EBOOK"
+    ["tytul"]=>
+    string(31) "Mikroekonomia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2017-11-10"
+  }
+  [253]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MIMOMB_EBOOK"
+    ["tytul"]=>
+    string(51) "Minecraft. Modyfikacje dla mÅodych bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "128"
+    ["datawydania"]=>
+    string(10) "2017-09-20"
+  }
+  [254]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MINDB2_EBOOK"
+    ["tytul"]=>
+    string(41) "Mindfulness dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2019-03-12"
+  }
+  [255]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MINEBY_EBOOK"
+    ["tytul"]=>
+    string(27) "Minecraft dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2016-01-22"
+  }
+  [256]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MKBY2V_EBOOK"
+    ["tytul"]=>
+    string(46) "Muzyka klasyczna dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "344"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  }
+  [257]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MOBIBY_EBOOK"
+    ["tytul"]=>
+    string(34) "Modele biznesowe dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2018-03-09"
+  }
+  [258]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MOCIA3_EBOOK"
+    ["tytul"]=>
+    string(44) "Mowa ciaÅa dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2016-09-18"
+  }
+  [259]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MOCIAB_EBOOK"
+    ["tytul"]=>
+    string(31) "Mowa ciaÅa dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [260]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "MYSLIN_EBOOK"
+    ["tytul"]=>
+    string(73) "MyÅ jak inÅ¼ynier. Projekty techniczne dla mÅodych bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "128"
+    ["datawydania"]=>
+    string(10) "2018-01-23"
+  }
+  [261]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "NADCBY_EBOOK"
+    ["tytul"]=>
+    string(33) "NadciÅienie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+ednio zaawansowany"3-04-12"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  } string(12) "NAKOBY_EBOOK"
+  [265]=>ul"]=>
+  array(4) {0) "Naprawa i konserwacja rowerÃ³w dla bystrzakÃ³w"
+    ["ident"]=>on"]=>
+    string(12) "NIE2VV_EBOOK"
+    ["tytul"]=>ia"]=>
+    string(40) "Niemiecki dla bystrzakÃ³w. Wydanie II "
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2015-07-13"
+  } string(12) "NEGOC2_EBOOK"
+  [266]=>ul"]=>
+  array(4) {0) "Negocjacje dla bystrzakÃ³w. Wydanie II"
+    ["ident"]=>on"]=>
+    string(12) "NIEMBY_EBOOK"
+    ["tytul"]=>ia"]=>
+    string(28) "Niemiecki dla bystrzakÃ³w "
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  } string(12) "NIBYSZ_EBOOK"
+  [267]=>ul"]=>
+  array(4) {9) "Niemiecki dla bystrzakÃ³w. Poziom Å
+    ["ident"]=>
+    string(12) "NLPBY2_EBOOK"
+    ["tytul"]=>
+    string(33) "NLP dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [268]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "NLPBY3_EBOOK"
+    ["tytul"]=>
+    string(34) "NLP dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2020-01-28"
+  }
+  [269]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "OPMEBY_EBOOK"
+    ["tytul"]=>
+    string(36) "Sprawny metabolizm dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2017-09-20"
+  }
+  [270]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "OPTYDV_EBOOK"
+    ["tytul"]=>
+    string(61) "Optymalna dieta dla biegaczy. Jedz zdrowo i biegnij po sukces"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2015-05-19"
+  }
+  [271]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "PIANBY_EBOOK"
+    ["tytul"]=>
+    string(52) "Instrumenty klawiszowe dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [272]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "PODMBY_EBOOK"
+    ["tytul"]=>
+    string(51) "Podstawy programowania dla mÅodych bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "128"
+    ["datawydania"]=>
+    string(10) "2019-03-05"
+  }
+  [273]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "POKERB_EBOOK"
+    ["tytul"]=>
+    string(23) "Poker dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "288"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [274]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "POWBYS_EBOOK"
+    ["tytul"]=>
+    string(61) "Poczucie wÅasnej wartoÅi dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2016-11-18"
+  }
+  [275]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "POWBYS_3"
+    ["tytul"]=>
+    string(61) "Poczucie wÅasnej wartoÅi dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2020-01-14"
+  }
+  [276]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "PRINBY_EBOOK"
+    ["tytul"]=>
+    string(58) "Fotowoltaika. Projektowanie i instalacja dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2021-10-05"
+  }
+  [277]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "PRO13B_EBOOK"
+    ["tytul"]=>
+    string(33) "MS Project 2013 dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2015-01-18"
+  }
+  [278]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "PROEBY_EBOOK"
+    ["tytul"]=>
+    string(40) "Projekty elektroniczne dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2015-06-10"
+  }
+  [279]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "PRPYB2_EBOOK"
+    ["tytul"]=>
+    string(54) "Programowanie w Pythonie dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "416"
+    ["datawydania"]=>
+    string(10) "2020-01-31"
+  }
+  [280]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "PSSPBY_EBOOK"
+    ["tytul"]=>
+    string(36) "Psychologia sportu dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "304"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [281]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "PSYB2V_3"
+    ["tytul"]=>
+    string(41) "Psychologia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2020-01-14"
+  }
+  [282]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "PSYB2V_EBOOK"
+    ["tytul"]=>
+    string(41) "Psychologia dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "352"
+    ["datawydania"]=>
+    string(10) "2018-12-17"
+  }
+  [283]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "REIKIO_EBOOK"
+    ["tytul"]=>
+    string(1) "R"
+    ["liczbastron"]=>
+    string(3) "272"
+    ["datawydania"]=>
+    string(10) "2019-06-04"
+  }
+  [284]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "REMIBY_EBOOK"
+    ["tytul"]=>
+    string(41) "Receptury w Minecrafcie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "160"
+    ["datawydania"]=>
+    string(10) "2016-03-21"
+  }
+  [285]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "RODZBY_EBOOK"
+    ["tytul"]=>
+    string(31) "Rodzicielstwo dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "408"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [286]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "RODZIC_3"
+    ["tytul"]=>
+    string(1) "R"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2020-12-28"
+  }
+  [287]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "RODZIC_EBOOK"
+    ["tytul"]=>
+    string(1) "R"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2019-06-18"
+  }
+  [288]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ROFRBY_EBOOK"
+    ["tytul"]=>
+    string(40) "RozmÃ³wki francuskie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "168"
+    ["datawydania"]=>
+    string(10) "2018-06-08"
+  }
+  [289]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ROKWBY_EBOOK"
+    ["tytul"]=>
+    string(53) "Rozmowa kwalifikacyjna dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "296"
+    ["datawydania"]=>
+    string(10) "2013-04-24"
+  }
+  [290]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "RONIBY_EBOOK"
+    ["tytul"]=>
+    string(40) "RozmÃ³wki niemieckie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "168"
+    ["datawydania"]=>
+    string(10) "2018-06-08"
+  }
+  [291]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ROROBY_EBOOK"
+    ["tytul"]=>
+    string(39) "RozmÃ³wki rosyjskie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "160"
+    ["datawydania"]=>
+    string(10) "2018-06-08"
+  }
+  [292]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ROS2VV_EBOOK"
+    ["tytul"]=>
+    string(39) "Rosyjski dla bystrzakÃ³w. Wydanie II "
+    ["liczbastron"]=>
+    string(3) "312"
+    ["datawydania"]=>
+    string(10) "2015-07-13"
+  }
+  [293]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ROSYBY_EBOOK"
+    ["tytul"]=>
+    string(27) "Rosyjski dla bystrzakÃ³w "
+    ["liczbastron"]=>
+    string(3) "312"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [294]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ROWLBY_EBOOK"
+    ["tytul"]=>
+    string(40) "RozmÃ³wki wÅoskie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "168"
+    ["datawydania"]=>
+    string(10) "2018-06-08"
+  }
+  [295]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "RTGIBY_EBOOK"
+    ["tytul"]=>
+    string(48) "Rytm i technika gry na gitarze dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "216"
+    ["datawydania"]=>
+    string(10) "2017-01-15"
+  }
+  [296]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "RYSOBY_EBOOK"
+    ["tytul"]=>
+    string(27) "Rysowanie dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [297]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "SEKPCC_EBOOK"
+    ["tytul"]=>
+    string(122) "Sekrety cyfrowej ciemni Scotta Kelby'ego. Edycja i obrÃ³bka zdjÄÄ w programie Adobe Photoshop Lightroom Classic CC"
+    ["liczbastron"]=>
+    string(3) "464"
+    ["datawydania"]=>
+    string(10) "2019-06-25"
+  }
+  [298]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "SEKSBY_EBOOK"
+    ["tytul"]=>
+    string(22) "Seks dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [299]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "SIEB11_EBOOK"
+    ["tytul"]=>
+    string(47) "Sieci komputerowe dla bystrzakÃ³w. Wydanie XI"
+    ["liczbastron"]=>
+    string(3) "464"
+    ["datawydania"]=>
+    string(10) "2019-10-29"
+  }
+  [300]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "SOCJOB_EBOOK"
+    ["tytul"]=>
+    string(28) "Socjologia dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2017-11-10"
+  }
+  [301]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "STABY2_EBOOK"
+    ["tytul"]=>
+    string(40) "Statystyka dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "368"
+    ["datawydania"]=>
+    string(10) "2016-09-18"
+  }
+  [302]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "SZINBY_EBOOK"
+    ["tytul"]=>
+    string(39) "Sztuczna inteligencja dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2021-03-11"
+  }
+  [303]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "SZKOBY_EBOOK"
+    ["tytul"]=>
+    string(36) "Sztuka komunikacji dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "144"
+    ["datawydania"]=>
+    string(10) "2017-08-30"
+  }
+  [304]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "SZKOBY_3"
+    ["tytul"]=>
+    string(36) "Sztuka komunikacji dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "144"
+    ["datawydania"]=>
+    string(10) "2019-10-15"
+  }
+  [305]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "TAOBYS_EBOOK"
+    ["tytul"]=>
+    string(24) "Taoizm dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2019-03-12"
+  }
+  [306]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "TEMUB4_EBOOK"
+    ["tytul"]=>
+    string(43) "Teoria muzyki dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "304"
+    ["datawydania"]=>
+    string(10) "2021-06-08"
+  }
+  [307]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "TEMUBY_EBOOK"
+    ["tytul"]=>
+    string(43) "Teoria muzyki dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "280"
+    ["datawydania"]=>
+    string(10) "2014-08-14"
+  }
+  [308]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "TREPSO_EBOOK"
+    ["tytul"]=>
+    string(33) "Trening psÃ³w dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2013-04-24"
+  }
+  [309]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "TRESBY_EBOOK"
+    ["tytul"]=>
+    string(47) "Trening siÅowy dla bystrzakÃ³w. Wydanie IV"
+    ["liczbastron"]=>
+    string(3) "392"
+    ["datawydania"]=>
+    string(10) "2016-11-10"
+  }
+  [310]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "TREUBV_EBOOK"
+    ["tytul"]=>
+    string(35) "Trening umysÅu dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "232"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [311]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "VNIIT2_W"
+    ["tytul"]=>
+    string(1) "N"
+    ["liczbastron"]=>
+    string(1) "0"
+    ["datawydania"]=>
+    string(10) "2019-01-18"
+  }
+  [312]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "WINOBY_EBOOK"
+    ["tytul"]=>
+    string(22) "Wino dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "440"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [313]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "WLJEZV_EBOOK"
+    ["tytul"]=>
+    string(1) "W"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2014-01-13"
+  }
+  [314]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "WLJEZV_3"
+    ["tytul"]=>
+    string(1) "W"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2020-02-25"
+  }
+  [315]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "WLOSBY_EBOOK"
+    ["tytul"]=>
+    string(27) "WÅoski dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "320"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [316]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "WYSZB3_EBOOK"
+    ["tytul"]=>
+    string(54) "Wychowanie szczeniÄt dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "360"
+    ["datawydania"]=>
+    string(10) "2014-07-16"
+  }
+  [317]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ZAPRB5_EBOOK"
+    ["tytul"]=>
+    string(54) "ZarzÄdzanie projektami dla bystrzakÃ³w. Wydanie V"
+    ["liczbastron"]=>
+    string(3) "424"
+    ["datawydania"]=>
+    string(10) "2019-05-20"
+  }
+  [318]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ZAPRBY_EBOOK"
+    ["tytul"]=>
+    string(43) "ZarzÄdzanie projektami dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "336"
+    ["datawydania"]=>
+    string(10) "2013-05-20"
+  }
+  [319]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ZAPROB_EBOOK"
+    ["tytul"]=>
+    string(42) "ZarzÄdzanie produktem dla bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "384"
+    ["datawydania"]=>
+    string(10) "2020-01-28"
+  }
+  [320]=>
+  array(4) {
+    ["ident"]=>
+    string(8) "ZAPSZE_3"
+    ["tytul"]=>
+    string(117) "Zapytaj szefa. Jak siÄ dogadaÄ w trudnych sytuacjach z przeÅoÅ¼onym, podwÅadnymi i kolegami z dziaÅu"
+    ["liczbastron"]=>
+    string(3) "264"
+    ["datawydania"]=>
+    string(10) "2019-04-02"
+  }
+  [321]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ZAPSZE_EBOOK"
+    ["tytul"]=>
+    string(117) "Zapytaj szefa. Jak siÄ dogadaÄ w trudnych sytuacjach z przeÅoÅ¼onym, podwÅadnymi i kolegami z dziaÅu"
+    ["liczbastron"]=>
+    string(3) "264"
+    ["datawydania"]=>
+    string(10) "2019-03-26"
+  }
+  [322]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ZAZBY3_EBOOK"
+    ["tytul"]=>
+    string(45) "ZarzÄdzanie dla bystrzakÃ³w. Wydanie III"
+    ["liczbastron"]=>
+    string(3) "328"
+    ["datawydania"]=>
+    string(10) "2016-09-18"
+  }
+  [323]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ZAZBYS_EBOOK"
+    ["tytul"]=>
+    string(44) "ZarzÄdzanie dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "376"
+    ["datawydania"]=>
+    string(10) "2013-04-24"
+  }
+  [324]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ZEGLBY_EBOOK"
+    ["tytul"]=>
+    string(43) "Å»eglarstwo dla bystrzakÃ³w. Wydanie II"
+    ["liczbastron"]=>
+    string(3) "400"
+    ["datawydania"]=>
+    string(10) "2013-04-12"
+  }
+  [325]=>
+  array(4) {
+    ["ident"]=>
+    string(12) "ZOGWYT_EBOOK"
+    ["tytul"]=>
+    string(92) "ZostaÅ gwiazdÄ YouTube'a. TwÃ³rz najlepsze filmy wideo! Dla mÅodych bystrzakÃ³w"
+    ["liczbastron"]=>
+    string(3) "128"
+    ["datawydania"]=>
+    string(10) "2018-01-12"
+  }
+}
