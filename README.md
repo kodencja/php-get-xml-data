@@ -1,4 +1,4 @@
-Aim of the code is to get data (in json format) from source url (xml file); if the url fails, data should be drawn from the local file books.xml. Data can be get either by CLI or SERVER; if by SERVER data are displayed in the browser, if by CLI - data are saved locally to data.json file.
+The aim of the code is to get data (in json format) from source url (xml file); if the url fails, data should be drawn from the local file books.xml. Data can be fetched either by CLI or SERVER; if by SERVER data are displayed in the browser, if by CLI - data are saved locally to data.json file.
 
 Calling the app by CLI you have to provide right params as followns:
 A) SHORTPARAMS
@@ -11,6 +11,7 @@ A) SHORTPARAMS
 B) LONGPARAMS 3. 'p1, p2, p3' etc. - they describe detail params available inside the target array from database 4. 'pbase1, pbase2' etc. - they describe params outisde the target array from database - they are like track to the target array
 
 only critical errors are thrown as Exceptions, others are caught in string 'errors' and displayed
+
 tested params:
 
 Examples of cli requests with params

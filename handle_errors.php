@@ -35,11 +35,12 @@ class HandleErrors
         } else {
             $arr_flat = $arr;
         }
-
+        echo "Start FLATEN: \n";
+        var_dump($arr_flat);
         return $arr_flat;
     }
 
-    protected function continue_flaten_arr_or_not($arr_flaten, $length)
+    protected function check_flaten_arr_length($arr_flaten, $length)
     {
         if ($arr_flaten === NULL || sizeof(@$arr_flaten) <= $length) {
             return false;
@@ -56,13 +57,15 @@ class HandleErrors
         }
     }
 
+    // check if array is shorter than particular lenght
     function check_array_length($arr, $length): bool
     {
         $hasArrayMoreArrays = $this->check_if_array_has_arrays($arr);
         $arr_flaten = $this->start_flaten_arr_or_not($hasArrayMoreArrays, $arr);
-
+        // if ($arr_flaten !== null) return true;
+        // else return false;
         // if there are some data / arrays in $arr flaten $arr
-        $flaten_more =  $this->continue_flaten_arr_or_not($arr_flaten, $length);
-        return $flaten_more;
+        $flaten_length_checked =  $this->check_flaten_arr_length($arr_flaten, $length);
+        return $flaten_length_checked;
     }
 }
