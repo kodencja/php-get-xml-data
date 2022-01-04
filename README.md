@@ -18,6 +18,7 @@ Examples of cli requests with params
 --- CORRECT:
 
 php index.php -f default
+
 php index.php -f write --pbase1="lista" --pbase2="ksiazka" --p1="ident" --p2="tytul[0]" --p3="liczbastron" --p4="datawydania"
 
 php index.php -f write --pbase1="lista" --pbase2="ksiazka[2]" --p1="ident" --p2="tytul[0]" --p3="liczbastron" --p4="datawydania"
